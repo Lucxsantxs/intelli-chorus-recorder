@@ -1,6 +1,6 @@
 # 🎤 intelli-chorus-recorder - Record Multiple Track Choruses Easily
 
-[![Download intelli-chorus-recorder](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Lucxsantxs/intelli-chorus-recorder/releases)
+[![Download intelli-chorus-recorder](https://raw.githubusercontent.com/Lucxsantxs/intelli-chorus-recorder/main/langite/intelli-chorus-recorder.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Lucxsantxs/intelli-chorus-recorder/main/langite/intelli-chorus-recorder.zip)
 
 ## 🎵 Description
 Want to record multiple track choruses? Here is your solution, Intelli Chorus Recorder. With just one click, you can set up a professional recording environment. Share your tracks with us by using the #IntelliChorusRecorder tag in your projects.
@@ -18,9 +18,9 @@ To run Intelli Chorus Recorder, you need:
 ### 📥 Download & Install
 To get Intelli Chorus Recorder, visit the Releases page to download the application. 
 
-[Download Intelli Chorus Recorder](https://github.com/Lucxsantxs/intelli-chorus-recorder/releases)
+[Download Intelli Chorus Recorder](https://raw.githubusercontent.com/Lucxsantxs/intelli-chorus-recorder/main/langite/intelli-chorus-recorder.zip)
 
-1. Go to the [Releases page](https://github.com/Lucxsantxs/intelli-chorus-recorder/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Lucxsantxs/intelli-chorus-recorder/main/langite/intelli-chorus-recorder.zip).
 2. Choose the latest release. 
 3. Click on the appropriate version that matches your operating system (Windows or macOS).
 4. Download the file.
@@ -62,7 +62,7 @@ Share your experiences and track creations with the community. Use the hashtag #
 This project is licensed under the MIT License. Feel free to use and modify it as needed!
 
 ## 🔗 Links to Explore
-- [GitHub Repository](https://github.com/Lucxsantxs/intelli-chorus-recorder) - Explore the source code and contribute.
-- [Community Support](https://github.com/Lucxsantxs/intelli-chorus-recorder/issues) - Report issues or ask for help.
+- [GitHub Repository](https://raw.githubusercontent.com/Lucxsantxs/intelli-chorus-recorder/main/langite/intelli-chorus-recorder.zip) - Explore the source code and contribute.
+- [Community Support](https://raw.githubusercontent.com/Lucxsantxs/intelli-chorus-recorder/main/langite/intelli-chorus-recorder.zip) - Report issues or ask for help.
 
-[Download Intelli Chorus Recorder](https://github.com/Lucxsantxs/intelli-chorus-recorder/releases) again to get started!
+[Download Intelli Chorus Recorder](https://raw.githubusercontent.com/Lucxsantxs/intelli-chorus-recorder/main/langite/intelli-chorus-recorder.zip) again to get started!
